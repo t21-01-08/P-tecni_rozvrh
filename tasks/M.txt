@@ -1,0 +1,10 @@
+------------------------
+Matematika
+učitel: Paulíková B.
+třída: 4.A
+žáci: 4.A
+učebna: 4.A_A2
+cyklus: bez cyklů
+Den (vyuč. hodina): Pá 13.3 (4)
+Probrané učivo: Aritmetická posloupnost.
+------------------------
