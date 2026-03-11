@@ -1,1 +1,1 @@
-# P-tecni_rozvrh
+# Patecni_rozvrh
