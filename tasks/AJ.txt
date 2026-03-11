@@ -1,0 +1,10 @@
+------------------------
+#předmět#
+učitel:
+třída:
+žáci:
+učebna:
+cyklus:
+Den (vyuč. hodina):
+Probrané učivo:
+------------------------
