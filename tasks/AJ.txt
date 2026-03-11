@@ -1,10 +1,10 @@
 ------------------------
 #předmět#
-učitel:
-třída:
-žáci:
-učebna:
-cyklus:
-Den (vyuč. hodina):
-Probrané učivo:
+učitel: Mr.Hinds.P
+třída: 4.A
+žáci: 4.A(sk.FJ)
+učebna:4.A_A2
+cyklus:bez cyklů
+Den (vyuč. hodina):Pá 13.3(5)
+Probrané učivo:Presentation
 ------------------------
