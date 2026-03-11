@@ -1,1 +1,17 @@
-
+Tomáš D. -> napíše zakladní informace o repozitáři (README.md).
+- Rozdělí úkoly kolaborátorům (planer.txt)
+- Vytvoří repozitář patecni_rozvrh
+- Vytvoří složku tasks
+- Vytvoří dokumenty AJ, M, TV
+- Vytvoří větev feature_M
+- Doplní dokument M
+- Vytvoří issues
+- Sloučí všechny větve
+- vyřeší merge conflict
+-------------------------------------------- 
+Richar G. -> Vytvoří větev feature_AJ
+- Doplní dokument AJ 
+--------------------------------------------
+Pavel V. -> Vytvoří větev feature_TV
+- Doplní dokument TV
+--------------------------------------------
