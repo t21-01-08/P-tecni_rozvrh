@@ -5,12 +5,12 @@ Tomáš D. -> napíše zakladní informace o repozitáři (README.md).
 - Vytvoří dokumenty AJ, M, TV
 - Vytvoří větev feature_M
 - Doplní dokument M
-- Vytvoří issues
 - Sloučí všechny větve
 - vyřeší merge conflict
 -------------------------------------------- 
 Richar G. -> Vytvoří větev feature_AJ
-- Doplní dokument AJ 
+- Doplní dokument AJ
+- Vytvoří issues
 --------------------------------------------
 Pavel V. -> Vytvoří větev feature_TV
 - Doplní dokument TV
