@@ -1,1 +1,0 @@
-# Patecni_rozvrh
